@@ -235,6 +235,7 @@ Besides `:stretches`, you can define `:pepper`, `:encryptor`, `:confirm_within`,
 ### Strong Parameters
 
 ![The Parameter Sanitizer API has changed for Devise 4](http://messages.hellobits.com/warning.svg?message=The%20Parameter%20Sanitizer%20API%20has%20changed%20for%20Devise%204)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fdevise.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fdevise?ref=badge_shield)
 
 *For previous Devise versions see https://github.com/plataformatec/devise/tree/3-stable#strong-parameters*
 
@@ -677,3 +678,6 @@ https://github.com/plataformatec/devise/graphs/contributors
 MIT License. Copyright 2009-2018 Plataformatec. http://plataformatec.com.br
 
 You are not granted rights or licenses to the trademarks of Plataformatec, including without limitation the Devise name or logo.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fdevise.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fdevise?ref=badge_large)
